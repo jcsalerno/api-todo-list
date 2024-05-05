@@ -43,3 +43,9 @@ O projeto está organizado da seguinte forma:
 - Spring Data JPA
 - MySQL
 - Postman
+
+## YouTube
+
+- Link do vídeo no YouTube 
+
+[![Hackerrank](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/YiZp89MYISw?si=TPLQlxM56nvRHwoI)
